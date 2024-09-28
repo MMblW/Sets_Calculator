@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\SetsCalculator\bin\Debug\SetsCalculator.exe.config
+C:\Users\Admin\source\repos\SetsCalculator\bin\Debug\SetsCalculator.exe
+C:\Users\Admin\source\repos\SetsCalculator\bin\Debug\SetsCalculator.pdb
+C:\Users\Admin\source\repos\SetsCalculator\obj\Debug\SetsCalculator.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SetsCalculator\obj\Debug\SetsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SetsCalculator\obj\Debug\SetsCalculator.exe
+C:\Users\Admin\source\repos\SetsCalculator\obj\Debug\SetsCalculator.pdb
+C:\Users\Admin\source\repos\NewSetsCalculator\bin\Debug\SetsCalculator.exe.config
+C:\Users\Admin\source\repos\NewSetsCalculator\bin\Debug\SetsCalculator.exe
+C:\Users\Admin\source\repos\NewSetsCalculator\bin\Debug\SetsCalculator.pdb
+C:\Users\Admin\source\repos\NewSetsCalculator\obj\Debug\SetsCalculator.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\NewSetsCalculator\obj\Debug\SetsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NewSetsCalculator\obj\Debug\SetsCalculator.exe
+C:\Users\Admin\source\repos\NewSetsCalculator\obj\Debug\SetsCalculator.pdb
